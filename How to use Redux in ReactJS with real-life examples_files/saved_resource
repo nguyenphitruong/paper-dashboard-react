@@ -1,0 +1,48 @@
+
+var ftGUID_6698281="533711ECD300AE";
+var ftConfID_6698281="0";
+var ftParams_6698281="ftOBA=1&ft_domain=www.freecodecamp.org&ft_ifb=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fhow-to-use-redux-in-reactjs-with-real-life-examples-687ab4441b85%2F&us_privacy=${US_PRIVACY}&cachebuster=872766.5992681091&ft_dv=%5B%25ft_dv%25%5D";
+var ftKeyword_6698281="";
+var ftCustom_6698281="";
+var ftSection_6698281="";
+var ftSegment_6698281="aixc";
+var ftSegmentList_6698281=[{s:'aixc'}];
+var ftRuleMatch_6698281="0";
+var ftTimestamp_6698281="1669173801";
+var ftGeoC2_6698281="vn";
+var ftGeoState_6698281="sg";
+var ftGeoCity_6698281="thanh pho ho chi minh";
+var ftISP_6698281="vietnam post and telecom corporation";
+var ftSpeed_6698281="broadband";
+var ftDMA_6698281="-1";
+var ftLong_6698281="106.68";
+var ftLat_6698281="10.77";
+var ftPostal_6698281="0";
+var ftTimeZone_6698281="700";
+var ftMobileCarrier_6698281="";
+var ftImp6698281 = {};
+ftImp6698281.privacy = "x";
+ftImp6698281.guidAge = "103";
+ftImp6698281.impID = "16F61521-1685-E962-1C90-9028AAA05446";
+ftImp6698281.duid = "FT:533711ECD300AE";
+
+ftImp6698281.ft_tpplid = "";
+ftImp6698281.ft_c = {};
+ftImp6698281.gdpr = "";
+ftImp6698281.gdpr_consent = "";
+ftImp6698281.gdpr_pd = "";
+ftImp6698281.oob_consent = "";
+ftImp6698281.gdprStoredConsent = "";
+ftImp6698281.us_privacy = "!!US_PRIVACY!";
+
+ftImp6698281.jsAppend = "1";
+(function(){
+    var tag = document.getElementById('ft_servedby_6698281') || (function(s){
+    	return s[s.length-1];
+    }(document.getElementsByTagName('script'))),
+           js = document.createElement('script');
+    js.src =
+"https://cdn.flashtalking.com/xre/669/6698281/3956237/js/j-6698281-3956237.js";
+    js.id = "ftscript_m6698281";
+    tag.parentNode.insertBefore(js, tag);
+}());
